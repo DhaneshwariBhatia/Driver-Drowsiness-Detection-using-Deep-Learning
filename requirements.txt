@@ -1,0 +1,5 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+tensorflow     # or torch if using PyTorch
