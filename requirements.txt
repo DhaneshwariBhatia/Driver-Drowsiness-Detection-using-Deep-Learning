@@ -1,5 +1,7 @@
-streamlit
+numpy==2.4.4
+opencv_contrib_python==4.13.0.92
 opencv-python-headless
-numpy
-pandas
-tensorflow     # or torch if using PyTorch
+Pillow==12.2.0
+playsound==1.2.2
+streamlit==1.50.0
+tensorflow==2.21.0
